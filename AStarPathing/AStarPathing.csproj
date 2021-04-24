@@ -7,6 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\EllerAlg\EllerAlg\EllerAlg.csproj" />
     <ProjectReference Include="..\AStarAlgorithm\AStarAlgorithm.csproj" />
   </ItemGroup>
 
